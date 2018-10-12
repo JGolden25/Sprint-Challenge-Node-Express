@@ -1,6 +1,7 @@
 # Review Questions
 
 ## What is Node.js?
+Node Js is a runtime environment that allows us to use JS on the backend
 
 ## What is Express?
 
