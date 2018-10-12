@@ -21,4 +21,4 @@ usually a 200(OK) 201(created) or 202(Accepted) are responses for successful req
 ## How can we partition our application into sub-applications?
 I've been using the function method as Luis described it, separating the different functions like middleware and routes into different files
 ## What is express.json() and why do we need it?
-allows us to use JSON in our express framework
+configures our server to use JSON
