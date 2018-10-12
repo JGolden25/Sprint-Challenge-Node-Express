@@ -6,6 +6,7 @@ const actionsRoutes = require('./actionsRoutes/actionsRoutes.js');
 
 server.use('/projects', Routes);
 server.use('/actions', actionsRoutes);
+
 const server = express();
 server.use(express.json());
 
